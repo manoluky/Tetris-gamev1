@@ -7,7 +7,7 @@ Tetris game built with React
 </h1>
 
 
-Use Sonarqube block 
+Use Sonarqube blockk 
 ```
 environment {
         SCANNER_HOME=tool 'sonar-scanner'
